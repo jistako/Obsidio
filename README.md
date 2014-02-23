@@ -7,7 +7,7 @@ Sustainable P2P storage of arbitrary data in an ever-branch-able block-tree.
 Overview
 --------
 
-Obsidio is a protocol that can be used to produce a peer-to-peer network for the storage of blocks of arbitrary data (e.g. text, code) in an ever-branch-able tree with an integrated payment system.  The network protocol is copied from Bitcoin.  The tree consists of an ever-branchable block-tree rooted on a single genesis block.  Lastly, the payment system is designed to incentivize users to upload blocks and nodes to store as much of the tree according to the demand of users.
+Obsidio is a protocol that can be used to produce a peer-to-peer network for the storage of blocks of arbitrary data (e.g. text, code) in an ever-branch-able tree with an integrated payment system.
 
 
 Applications
