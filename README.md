@@ -13,7 +13,7 @@ Obsidio is a protocol that can be used to produce a peer-to-peer network for the
 Applications
 ------------
 
-The protocol does not necessitate anything but that the blocks are contructed properly, thus the usage of Obsidio can be used for many types of applications.  However, the following are some ideas may qualify as interesting use-cases of Obsidio:
+The protocol does not necessitate anything but that the blocks are contructed properly and that appropriate payments are made, thus the usage of Obsidio can be used for many types of applications.  However, the following are some ideas may qualify as interesting use-cases of Obsidio:
 
  * Microblogging - Send blocks to the network and receive funds as people download your microblog blocks.
  * Alternate DNS - Store your website's URL in a block.  Update your record by posting another block imediately after that initial one to indicate the IP address change.
@@ -59,7 +59,7 @@ Watering the Tree
 
 As sustainability is appropriate for achieving a sizeable peer-to-peer network, payments are supported by default, but not required.  Thus, there may persist a set of nodes that provide the block-tree freely, though inter-node traffic will have to be paid for by some means.
 
-When a user seeks to upload a block, he must pay the node according to the amount as advertised in the node's catalogue.  When a second node or user requests that block from the first node, the second node must pay to download the block, but half of the payment goes to the user and half goes to the node; negotiation of that ratio may implemented later.  Thus, the end-user will ultimately pay for the uploading of the blocks and the maintenance of the network, assuming nodes adjust their prices properly.
+When a user seeks to upload a block, he must pay the node according to the amount as advertised in the node's catalogue.  When a second node or user requests that block from the first node, the second node must pay to download the block, but half of the payment goes to the user and half goes to the node; negotiation of that ratio may implemented later.  Thus, the end-user will ultimately pay for the uploading of the blocks and the maintenance of the network, assuming nodes and uploaders adjust their prices properly.
 
 
 Block Catalogue
